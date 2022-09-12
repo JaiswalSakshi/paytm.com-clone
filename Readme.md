@@ -6,7 +6,7 @@
 <br>
 
 ## Project live link
-[https://my-paytm.netlify.app/](https://my-paytm.netlify.app/ "paytm.com")
+[https://my-paytmclone.netlify.app/](https://my-paytmclone.netlify.app/ "paytm.com")
 
 <hr>
 
